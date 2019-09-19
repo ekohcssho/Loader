@@ -1,0 +1,8 @@
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.Form1.resources
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.Panel.resources
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.Properties.Resource.resources
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.Properties.Resources.resources
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.Register.resources
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.csproj.GenerateResource.cache
+C:\Users\drago\Desktop\Loader\Loader\obj\Release\Loader.csproj.CoreCompileInputs.cache
