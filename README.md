@@ -3,3 +3,6 @@
  need to do is read what it says on the website to do, aswell as some commented code.
  This loader uses manual map injection, I'd recommend changing the signature before using it with VAC,
  however, it works fine with my hvh cheat, and loads perfectly.
+
+Screenshot:
+https://imgur.com/a/WjGa2zK
